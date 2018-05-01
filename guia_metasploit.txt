@@ -117,6 +117,8 @@ db_nmap ip
 
 search vulnerabilidad
 
+*utilizar*
+use exploit
 *ver informacion*
 
 info
