@@ -1,5 +1,5 @@
 # Metasploit-Framework
-<img src="https://github.com/MatiaCornejo/Metasploit-Basic/metasploit.png" width="200" height="400" />
+<img src="https://github.com/MatiaCornejo/Metasploit-Framework/blob/master/metasploit.png" width="200" height="264.8" />
 
 ## Introducción Metasploit
 ***
@@ -9,12 +9,12 @@
   + Exploit.
   + Payload.
   + Framework.
-* Estructura de Metasploit.
+* Arquitectura de Metasploit.
 * Comandos basicos.
 * Auxiliares.
-  + arp_sweep.
-  + udp_sweep
-  + syn
+  + arp_sweep (auxiliary/scanner/discovery/udp_sweep )
+  + udp_sweep (auxiliary/scanner/discovery/arp_sweep)
+  + syn (auxiliary/scanner/portscan/syn)
 
 
 
