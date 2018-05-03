@@ -1,9 +1,20 @@
 # Metasploit-Basic
-![Metasploit](metasploit.png s=200)
+![Metasploit](metasploit.png)
 
-Introduccion Metasploit
+##Introduccion Metasploit
 
-comandos basicos, uso de herramientas y base de datos
+>Contenido
+  *Conceptos básicos.
+    + Exploit.
+    + Payload.
+    + Framework.
+  *Estructura de Metasploit.
+  *Comandos basicos.
+  *Auxiliares.
+    +arp_sweep.
+    +udp_sweep
+    +syn
+    
 
 
 
