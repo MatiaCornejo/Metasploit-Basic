@@ -1,5 +1,5 @@
 # Metasploit-Basic
-![](metasploit.png| width=100)
+![Metasploit](metasploit.png s=200)
 
 Introduccion Metasploit
 
