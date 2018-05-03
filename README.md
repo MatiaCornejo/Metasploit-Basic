@@ -10,7 +10,7 @@
   + Payload.
   + Framework.
 * Arquitectura de Metasploit.
-* Comandos basicos.
+* Comandos básicos.
 * Auxiliares.
   + arp_sweep (auxiliary/scanner/discovery/udp_sweep )
   + udp_sweep (auxiliary/scanner/discovery/arp_sweep)
