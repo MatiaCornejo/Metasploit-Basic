@@ -1,5 +1,5 @@
 # Metasploit-Basic
-<img src="metasploit.png" alt="Drawing" style="width: 200px;"/>
+![](metasploit.png| width=100)
 
 Introduccion Metasploit
 
