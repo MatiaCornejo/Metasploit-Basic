@@ -6,7 +6,7 @@
 >Contenido
 
 * Conceptos básicos.
-  + Exploit.
+  + Exploit.chupa el dick
   + Payload.
   + Framework.
 * Arquitectura de Metasploit.
